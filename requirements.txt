@@ -1,0 +1,1 @@
+you need to install validator with: pip install validators and then run the file with py or python
